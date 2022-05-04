@@ -1,0 +1,9 @@
+-IA:\CodeLite\Workspace1\Binary_Tree
+-IC:\msys64\mingw64\include\c++\11.3.0
+-IC:\msys64\mingw64\include\c++\11.3.0\x86_64-w64-mingw32
+-IC:\msys64\mingw64\include\c++\11.3.0\backward
+-IC:\msys64\mingw64\lib\gcc\x86_64-w64-mingw32\11.3.0\include
+-IC:\msys64\mingw64\include
+-IC:\msys64\mingw64\lib\gcc\x86_64-w64-mingw32\11.3.0\include-fixed
+-target
+x86_64-w64-mingw32
